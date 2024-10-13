@@ -25,6 +25,9 @@ Software:
     VMWare: https://www.vmware.com/
   Passwords:
     https://keepassxc.org/
+  PGP Encryption:
+    Kleopatra: https://apps.kde.org/kleopatra/
+    GPG4win: https://www.gpg4win.org/thanks-for-download.html (windows kleopatra)
   VPN's:
     Mullvad VPN: https://mullvad.net/en
     AirVPN: https://airvpn.org/
