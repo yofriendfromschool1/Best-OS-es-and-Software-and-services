@@ -41,5 +41,7 @@ Services:
   Deletion of information:
     DeleteMe: https://joindeleteme.com/
     Incogni: https://incogni.com/
+ Debloat:
+    privacy.sexy: https://privacy.sexy
   
     
