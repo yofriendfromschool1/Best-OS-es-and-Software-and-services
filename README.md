@@ -37,7 +37,14 @@ Services:
   Email:
     Cock.li: https://cock.li/
     SquirrelMail: https://www.squirrelmail.org/
+    Morke: http://morke.org
+    Altaddress: https://altaddress.org
+    PissMail: https://pissmail.com
+    Guerrillamail: https://www.guerrillamail.com
+    Temp mail: https://temp-mail.org
     ProtonMail: https://mail.proton.me/
+Number:
+    TextNow: https://www.textnow.com
   Deletion of information:
     DeleteMe: https://joindeleteme.com/
     Incogni: https://incogni.com/
