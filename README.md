@@ -47,6 +47,8 @@ Number:
     TextNow: https://www.textnow.com
   Tor:
     https://tor.taxi
+    https://darknetbible.org
+    https://thehiddenwiki.org
   Deletion of information:
     DeleteMe: https://joindeleteme.com/
     Incogni: https://incogni.com/
