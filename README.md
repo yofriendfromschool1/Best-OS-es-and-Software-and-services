@@ -45,6 +45,8 @@ Services:
     ProtonMail: https://mail.proton.me/
 Number:
     TextNow: https://www.textnow.com
+  Tor:
+    https://tor.taxi
   Deletion of information:
     DeleteMe: https://joindeleteme.com/
     Incogni: https://incogni.com/
