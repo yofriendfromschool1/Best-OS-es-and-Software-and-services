@@ -33,6 +33,7 @@ Software:
     AirVPN: https://airvpn.org/
     TorGuard: https://torguard.net/
     Proton VPN: https://protonvpn.com/
+    Anonsurf: linux: https://github.com/Und3rf10w/kali-anonsurf windows: https://github.com/ultrafunkamsterdam/AnonSurf
 Services:
   Email:
     Cock.li: https://cock.li/
