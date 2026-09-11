@@ -5,6 +5,7 @@ A curated list of operating systems, software, and privacy services.
 ## Table of Contents
 - [Operating Systems](#operating-systems)
   - [Linux — Daily Use](#linux--daily-use)
+  - [Android](#android)
   - [Linux — Privacy & Anonymity](#linux--privacy--anonymity)
   - [Linux — Pentesting](#linux--pentesting)
   - [Windows](#windows)
@@ -34,6 +35,13 @@ A curated list of operating systems, software, and privacy services.
 |----|------|-------|
 | **Linux Mint** | https://linuxmint.com/ | Beginner-friendly |
 | **Arch Linux** | https://archlinux.org/ | DIY, rolling release |
+| **Artix Linux** | https://artixlinux.org/ | SUPER DIY, rolling release **D-int, or runit recommended** |
+
+### Android
+
+| OS | Link | Notes |
+|----|------|-------|
+| **GrapheneOS** | https://grapheneos.org/ | NOT Beginner-friendly, advanced. |
 
 ### Linux — Privacy & Anonymity
 
@@ -125,6 +133,14 @@ A curated list of operating systems, software, and privacy services.
 ---
 
 ## Services
+
+### Carrier
+
+| Service | Link |
+|---------|------|
+| **Cloaked Wireless** | https://cloakedwireless.com/ |
+| **Cape** | https://www.cape.co/ |
+| **Phreeli** | https://www.phreeli.com/ |
 
 ### Email
 
