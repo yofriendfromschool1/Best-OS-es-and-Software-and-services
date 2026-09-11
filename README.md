@@ -19,6 +19,7 @@ A curated list of operating systems, software, and privacy services.
   - [PGP Encryption](#pgp-encryption)
   - [VPNs](#vpns)
 - [Services](#services)
+  - [Carrier](#carrier)
   - [Email](#email)
   - [Phone Numbers](#phone-numbers)
   - [Tor Links](#tor-links)
