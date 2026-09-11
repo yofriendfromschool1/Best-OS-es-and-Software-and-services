@@ -63,7 +63,8 @@ A curated list of operating systems, software, and privacy services.
 
 | OS | Link | Notes |
 |----|------|-------|
-| **Windows 10** | https://www.microsoft.com/en-us/software-download/windows10 | ⚠️ Never Windows 11 |
+| **Windows 10** | https://www.microsoft.com/en-us/software-download/windows10 | windows 11 so ahh bruh, but security updates. |
+| **Windows 11** | https://www.microsoft.com/en-us/software-download/windows11 | pls use debloat or privacy.sexy if you need to use windows!! |
 
 ---
 
