@@ -167,6 +167,7 @@ A curated list of operating systems, software, and privacy services.
 |---------|------|-------|
 | **DeleteMe** | https://joindeleteme.com/ | Paid |
 | **Incogni** | https://incogni.com/ | By Surfshark, paid |
+| **Aura** | https://aura.com/ | Paid |
 
 ### Debloating
 
