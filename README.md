@@ -125,6 +125,7 @@ A curated list of operating systems, software, and privacy services.
 | **AirVPN** | https://airvpn.org/ | Port forwarding (good for torrenting) |
 | **TorGuard** | https://torguard.net/ | |
 | **Proton VPN** | https://protonvpn.com/ | Free tier available |
+| **Cloudflare Warp VPN** | https://one.one.one.one| Free tier available |
 
 **Anonsurf (routes traffic through Tor):**
 
